@@ -6,7 +6,7 @@ This is the repository for my personal portfolio website built using **HTML, CSS
 
 ## 🌐 Live Website
 
-[https://lucyy28.github.io/My-Web-1/](Klik This To See 👀)
+[https://lucyy28.github.io/My-Web-1/] (Klik This To See 👀)
 
 ---
 
